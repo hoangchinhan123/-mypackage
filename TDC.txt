@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hgadaf
-=======
-ffsdad
->>>>>>> origin/main
